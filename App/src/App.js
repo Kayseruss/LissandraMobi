@@ -23,8 +23,8 @@ export default function App() {
     <SafeAreaView style={styles.container}>
       <DigiteSeuNome/>
       
-      <ListaProdutosV2/>
       {/*<Titulo principal="Titulo" secundario="Subtitulo"/>
+      <ListaProdutosV2/>
       <Familia>
       <UsuarioLogado usuario={{nome: "Fernanda", email:"fe@gmail.com"}}/>
       <UsuarioLogado usuario={{nome: "Luisa", }}/>
@@ -57,6 +57,7 @@ export default function App() {
       <Comp2 />
       <Comp3 />
   <Primeiro />*/}
+
     </SafeAreaView>
   );
 }
